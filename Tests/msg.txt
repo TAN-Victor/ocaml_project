@@ -1,0 +1,1 @@
+OCaml, anciennement connu sous le nom d'Objective Caml, est l'implementation la plus avancee du langage de programmation Caml, cree par Xavier Leroy, Jerome Vouillon, Damien Doligez, Didier Remy et leurs collaborateurs en 1996. Ce langage, de la famille des langages ML, est un projet open source dirige et maintenu essentiellement par l'Inria.
